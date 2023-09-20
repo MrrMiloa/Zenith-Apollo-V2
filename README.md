@@ -1,4 +1,5 @@
-![Logo pling](https://github.com/MrrMiloa/Zenith-Apollo-V2/assets/119014113/ad1a6203-82e3-4fd3-9bdf-4d95bb88b079)
+
+![Apollo github](https://github.com/MrrMiloa/Zenith-Apollo-V2/assets/119014113/95ea895c-9ca1-4244-9db0-30aed292f1d0)
 ### Zenith Apollo V2
 
 ### Steps for install
