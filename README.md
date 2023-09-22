@@ -9,7 +9,7 @@
 - Dirty flash maybe work (Try)
 - Released with Baalam Kernel KernelSU
 - 
-### [Download rom]([https://devuploads.com/xd8po6js96gg](https://devuploads.com/6hoscsk24857)https://devuploads.com/6hoscsk24857).
+### [Download rom](https://devuploads.com/6hoscsk24857)
 
 ### 📖 Changelog importants:
 - ROM Certified (Pass Safetynet,CTS)
